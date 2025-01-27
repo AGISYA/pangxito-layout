@@ -9,7 +9,7 @@ import { FaStar, FaStarHalfAlt } from "react-icons/fa";
 
 const Home = () => {
   return (
-    <div className="bg-red-50">
+    <div className="bg-white">
       <Navbar />
       <div className="relative flex items-center justify-center h-screen">
         <div className="relative w-full h-full">
